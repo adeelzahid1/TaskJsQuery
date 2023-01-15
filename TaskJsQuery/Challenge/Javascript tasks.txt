@@ -1,0 +1,118 @@
+1- Write a JavaScript program to display the current day and time in the following format.
+Sample Output : Today is : Friday. 
+Current time is : 4 PM : 50 : 22
+
+2- Write a JavaScript program to calculate multiplication and division of two numbers (input from user).
+
+3- Write a JavaScript program to get the website URL (loading page).
+
+4- Write a JavaScript function that returns a passed string with letters in alphabetical order.
+
+Example string : 'webmaster' 
+Expected Output : 'abeemrstw'
+
+
+5- Write a JavaScript function that accepts a string as a parameter and find the longest word within the string.
+
+Example string : 'Web Development Tutorial' 
+Expected Output : 'Development'
+
+
+6- Write a JavaScript function which will take an array of numbers stored and find the second lowest and second
+greatest numbers, respectively
+
+Sample array : [1,2,3,4,5]
+Expected Output : 2,4 
+
+
+7- Write a JavaScript function to find the first not repeated character.
+
+Sample arguments : 'abacddbec' 
+Expected output : 'e' 
+
+
+8- Write a JavaScript conditional statement to sort three numbers. Display an alert box to show the result.
+
+Sample numbers : 0, -1, 4 
+Output : 4, 0, -1 
+
+
+9- Write a JavaScript for loop that will iterate from 0 to 15. For each iteration,
+   it will check if the current number is odd or even, and display a message to the screen.
+
+Sample Output : 
+"0 is even" 
+"1 is odd" 
+"2 is even" 
+
+
+10- Write a JavaScript program to construct the following pattern, using a nested for loop.
+
+Sample Output : 
+*
+**
+***
+****
+*****
+
+
+
+11- Write a simple JavaScript program to join all elements of the following array into a string.
+
+Sample array : myColor = ["Red", "Green", "White", "Black"];
+Expected Output : 
+"Red,Green,White,Black"
+"Red,Green,White,Black"
+"Red+Green+White+Black"
+
+12-  Write a JavaScript program which prints the elements of the following array. 
+
+Note : Use nested for loops.
+Sample array : var a = [[1, 2, 1, 24], [8, 11, 9, 4], [7, 0, 7, 27], [7, 4, 28, 14], [3, 10, 26, 7]];
+Sample Output : 
+"row 0" 
+" 1" 
+" 2" 
+" 1"
+" 24"
+"row 1" 
+
+
+13- Write a JavaScript function to get the number of days in a month.
+
+Output :
+31 
+29 
+30 
+31
+
+
+14- Write a JavaScript function to get the month name from a particular date.
+Output :
+"October" 
+"November"
+
+
+15- Write a JavaScript function that accept a list of country names as input and returns the longest country name as output.
+Sample function : Longest_Country_Name(["Australia", "Germany", "United States of America"])
+Expected output : "United States of America"
+
+
+16- Write a JavaScript program to convert temperatures to and from celsius, fahrenheit.
+[ Formula : c/5 = (f-32)/9 [ where c = temperature in celsius and f = temperature in fahrenheit ] 
+Expected Output : 
+60°C is 140 °F   >>> 			(C x 9/5) + 32
+45°F is 7.222222222222222°C 		(F - 32) x 5/9
+
+
+17- Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
+
+18- Write a JavaScript program to get the current date.
+
+Expected Output : 
+mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy 
+
+19- Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7
+
+20- Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050.
+

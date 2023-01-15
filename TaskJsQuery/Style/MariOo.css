@@ -1,0 +1,80 @@
+﻿html {
+    scroll-behavior: smooth;
+}
+
+body {
+ 
+}
+
+.navbar {
+    box-shadow: rgba(65, 159, 229, 0.7) 2px 2px 5px;
+    background-color: #fff;
+    opacity: 0.7;
+}
+
+    .navbar .nav-item {
+        font-size: 1.4rem; /*18px*/
+        padding-right: 1.2rem;
+    }
+
+#Explore {
+    margin-top: 110px;
+    position: relative;
+    background-image: url('../ImgMarioo/mountains.jpg');
+    min-height: 600px;
+}
+
+    #Explore .explore-overlay {
+        background: rgba(50, 146, 166, 0.8);
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+    }
+
+#AboutBook .AboutHead {
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px solid #d0c5c5;
+}
+
+.AboutAuthors {
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px solid #d0c5c5;
+}
+
+
+#Author img {
+    margin-top: -50px;
+}
+
+#Author i, #Contact i {
+    font-size: 1.5rem;
+}
+
+#Author .card:hover {
+    background-color: #1d75e0;
+    color: #fff;
+}
+
+    #Author .card:hover i {
+        color: #fff;
+    }
+
+#Footer {
+    background-color: #F8F9FA;
+}
+
+
+
+@media (max-width: 768px) {
+    #Explore {
+        min-height: 500px;
+    }
+
+        #Explore h1 {
+            font-size: 48px;
+        }
+}

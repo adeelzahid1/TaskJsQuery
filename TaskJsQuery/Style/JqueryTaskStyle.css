@@ -1,0 +1,71 @@
+﻿body {
+}
+.task3ChildDiv{
+   background-color: aqua;
+}
+
+.divi {
+    background: blue;
+    color: white;
+    height: 100px;
+    width: 30%;
+    text-align: center;
+    line-height: 100px;
+ }
+.contextmenu {
+    background: yellow;
+    color: black;
+  }
+.colorToRed{
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+.task14Parent {
+    
+}
+
+.showDiv1 {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: red;
+    float: left;
+}
+
+.showDiv2 {
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: green;
+    left: 80px;
+    float: left;
+    margin-left: 50px;
+}
+
+
+#task15Parent div{
+    width: 20px;
+    height: 20px;
+    margin: 30px;
+    float: left;
+    border: 2px solid green;
+}
+
+.red {
+    background: red;
+}
+
+.tutorial {
+    width: 300px;
+}
+
+#mytable  {
+    width: 400px;
+}
+
+
+
+#task1, #task2, #task3, #task4, #task5, #task6, #task7, #task8, #task9, #task10, #task11, #task12, #task13, #task14, #task15, #task16, #task17, #task18, #task19, #task20 {
+    margin-top: 30px;
+}

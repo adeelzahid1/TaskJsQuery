@@ -1,0 +1,90 @@
+1- Blink text using jQuery.
+
+2- Make first word bold of all elements
+
+3- Create a div using jQuery with style tag. 
+
+4- Add a list elements within an unordered list element. //(adding an item within an existing unorderd list)
+
+5- Remove all CSS classes using jQuery. 
+
+6- Convert a jQuery object into a string. 
+
+7- Restrict "number"-only input for textboxes including decimal points. 
+
+8- Remove disabled attribute using jQuery. 
+
+9- Change options of select using jQuery. 
+
+10- Using jQuery right click to toggle background color. 
+
+11- Append a <p> element with a text message when an <input> field is changed.
+
+12- Write a jQuery Code to get a single element from a selection.
+
+Sample Data: 
+
+<body>
+<ui>
+<li>Html Tutorial</li>
+<li>Mongodb Tutorial</li>
+<li>Python Tutorial</li>
+</body>
+
+13- Change the color of any paragraph to red on mouseover event. 
+
+14-  Animate the hiding and showing of two divs, delaying the first before showing it. 
+
+15- Set the background color of the 4th division red by adding an appropriate class.
+
+Sample Data
+<body>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<button  id="button1">Click to see the effect</button>
+</body>
+div {
+width: 20px;
+height: 20px;
+margin: 5px;
+float: left;
+border: 2px solid green;
+}
+.red {
+background: red;
+}
+
+16- Count the number of specific elements. 
+
+Sample:
+<body>
+<ul>
+  <li>List - 1</li>
+  <li>List - 2</li>
+  <li>List - 3</li>
+</ul>
+   <button>Display the number of li elements in console</button>
+   </body>
+
+17- Border around all list items that are children of a specified class of an unordered list. 
+
+18- Set href attribute at runtime using jquery. 
+
+19- Remove a specific table row using jQuery. 
+
+20- Animates a paragraph to fade to an specified opacity (complete the animation within 500 milliseconds). 
+
+Sample Data :
+
+HTML code:
+
+<body>
+<p> Click this paragraph to see it fade.</p>
+</body>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
